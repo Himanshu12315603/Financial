@@ -1,0 +1,1 @@
+# Financial Management for Students*: Design and develop a student-centric financial management system to empower college students with effective money management tools. 
